@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Hi there!
+title: Home
 ---
 
 [CA]

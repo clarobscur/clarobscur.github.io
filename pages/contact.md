@@ -19,12 +19,12 @@ id: contact_page
     <div class="col-md-4">
       <div class="card py-4 h-100">
         <div class="card-body text-center">
-            <a href="https://twitter.com/kessetana" target="_blank">
+            <a href="https://twitter.com/ClarobscurC" target="_blank">
                 <h4 class="text-uppercase m-0"><i class="fab fa-twitter-square"></i> Twitter</h4>
             </a>
             <hr class="my-4">
             <div class="info">
-                <a href="https://twitter.com/kessetana" target="_blank">@kessetana</a>
+                <a href="https://twitter.com/ClarobscurC" target="_blank">@ClarobscurC</a>
             </div>
         </div>
       </div>
