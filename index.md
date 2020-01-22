@@ -7,7 +7,7 @@ title: Home
 
 Benvingut/-da! Som clarobscur i <a href="https://acontrallum.github.io" target="_blank">acontrallum</a> :)
 
-En aquest lloc web comparteixo alguns projectes personals i també projectes comuns amb acontrallum sobre viatges, muntanya i fotografia.
+En aquest lloc web comparteixo alguns projectes personals i altres de comuns sobre viatges, muntanya i fotografia.
 
 
 <br/>
@@ -15,7 +15,7 @@ En aquest lloc web comparteixo alguns projectes personals i també projectes com
 
 Welcome! We are clarobscur and <a href="https://acontrallum.github.io" target="_blank">acontrallum</a> :)
 
-In this site, I share some personal projects and also some common projects with acontrallum related to travel, mountain and photography.
+In this website, I share some personal projects and also common projects related to travel, mountain and photography.
 
 
 <br/>

@@ -46,7 +46,8 @@ id: contact_page
 
   <br/>
   <div class="row">
-    <div class="col-md-4 mb-2 mb-md-0">
+    <div class="col-md-4">
+    <!-- <div class="col-md-4 mb-2 mb-md-0">-->
       <div class="card py-4 h-100">
         <div class="card-body text-center">
           <a href="https://vaigadonaruntomb.wordpress.com/" target="_blank">
@@ -59,6 +60,23 @@ id: contact_page
         </div>
       </div>
     </div>
+
+<!--
+    <div class="col-md-4 mb-2 mb-md-0">
+      <div class="card py-4 h-100">
+        <div class="card-body text-center">
+          <a href="https://www.wikiloc.com/wikiloc/user.do?id=3214912" target="_blank">
+            <h4 class="text-uppercase m-0"><i class="fab fa-wordpress"></i> Wikiloc</h4>
+          </a>
+          <hr class="my-4">
+          <div class="info">
+            <a href="https://www.wikiloc.com/wikiloc/user.do?id=3214912" target="_blank">Wikiloc</a>
+          </div>
+        </div>
+      </div>
+    </div>
+-->
+
   </div>
 
 </div>
