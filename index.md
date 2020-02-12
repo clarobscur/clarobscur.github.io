@@ -27,6 +27,10 @@ In this website, I share some personal projects and also common projects related
     </div>
     <div class="col-md">
         <h3>Talks</h3>
+        <i class="far fa-comment"></i> <a href="/2020/02/12/gr11-talk-aem/">GR11 i Camino del Norte. 80 dies creuant el país</a>
+        <br/>
+        <i class="far fa-comment"></i> <a href="/2020/02/10/finland-trip-talk-canfabra/">Finlàndia, terra de llibertat</a>
+        <br/>
         <i class="far fa-comment"></i> <a href="/2019/01/29/finland-trip-talk/">Finlàndia a través dels seus parcs naturals</a>
     </div>
 </div>
