@@ -16,7 +16,7 @@ Aquesta conferència ha estat coordinada a través del col·lectiu de viatgers *
 Més informació: 
 <ul>
 <li><a href="http://www.coneguemelmon.org/" target="_blank">Coneguem el Món</a></li>
-<li><a href="https://guia.barcelona.cat/ca/detall/l-aventura-de-coneixer-tinteressa-coneguem-el-mon-finlandia-terra-de-llibertat_99400646970.html" target="_blank">L'aventura de conèixer</a></li>
+<li><a href="https://ajuntament.barcelona.cat/biblioteques/bibcanfabra/ca/agendes/conozcamos-el-mundo-finlandia-tierra-de-libertad_99400646970" target="_blank">L'aventura de conèixer</a></li>
 </ul>
 
 Hi sou tots convidats!
@@ -36,7 +36,7 @@ This conference has been coordinated by travellers collective **Coneguem el Món
 More info at:
 <ul>
 <li><a href="http://www.coneguemelmon.org/" target="_blank">Coneguem el Món</a></li>
-<li><a href="https://guia.barcelona.cat/ca/detall/l-aventura-de-coneixer-tinteressa-coneguem-el-mon-finlandia-terra-de-llibertat_99400646970.html" target="_blank">L'aventura de conèixer</a></li>
+<li><a href="https://ajuntament.barcelona.cat/biblioteques/bibcanfabra/ca/agendes/conozcamos-el-mundo-finlandia-tierra-de-libertad_99400646970" target="_blank">L'aventura de conèixer</a></li>
 </ul>
 
 You are more than welcome! And if you want to program this talk at your center, don't hesitate to contact us!
